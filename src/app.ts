@@ -31,7 +31,7 @@ const fileFilter = (req: any, file: any, cb: any) => {
 };
 
 var corsOptions = {
-  origin: 'https://club-manager-jt60.onrender.com/',
+  origin: 'https://club-manager-jt60.onrender.com',
   optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
 };
 
